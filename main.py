@@ -14,8 +14,8 @@ recipients = [phone2]
 
 # BC
 weather_params = {
-    "lat": 49.282730,
-    "lon": -123.120735,
+    "lat": 53.446622,
+    "lon": -113.515760,
     "appid": api_key,
     "cnt": 4,
 }
