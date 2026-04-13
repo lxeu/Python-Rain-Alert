@@ -10,7 +10,7 @@ auth_token = os.environ.get("AUTH_TOKEN")
 will_rain = False
 phone1 = os.environ.get("PHONE1")
 phone2 = os.environ.get("PHONE2")
-recipients = [phone1, phone2]
+# recipients = [phone1, phone2]
 
 # BC
 weather_params = {
